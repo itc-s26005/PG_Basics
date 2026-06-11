@@ -1,7 +1,6 @@
-def f(a,b):
-    return a ** 2
+def f(x):
+    return x ** 2
 
-a = input("数字を入力してください:")
-a = int(a)
-y =f(a,2)
-print(y)
+o = int(input("数字を入力してください:"))
+b =f(o)
+print(b)
