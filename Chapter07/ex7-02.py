@@ -1,0 +1,5 @@
+#ループでリストの要素をひとつひとつを表示する
+shows = ["GOT", "Narcos", "Vice"]
+
+for show in shows:
+    print(show)
